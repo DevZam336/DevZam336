@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hola, mi nombre es Angelo Naranjo 👋
+
+Soy un ingeniero en sistemas apasionado por el mundo de la tecnología y siempre dispuesto a aprender nuevas habilidades y conocimientos. Me especializo en el desarrollo de aplicaciones tanto web como de escritorio, y tengo una amplia experiencia en el manejo de bases de datos relacionales y no relacionales.
+
+En mi carrera profesional, he trabajado en diversos proyectos que me han permitido desarrollar habilidades en diferentes tecnologías y lenguajes de programación, tales como JavaScript, C#, C++, y SQL.
+
+Soy una persona muy comprometida y responsable, y me encanta trabajar en equipo para lograr objetivos desafiantes. Siempre estoy dispuesto a ayudar a mis compañeros y colaborar en todo lo necesario para el éxito del proyecto.
+
+Estoy muy interesado en seguir desarrollando mis habilidades y conocimientos en tecnología, y estoy seguro de que puedo adaptarme rápidamente a cualquier modalidad de trabajo en su empresa.
+
+Estoy emocionado por la oportunidad de formar parte de un equipo de profesionales y contribuir con mi experiencia y habilidades en el desarrollo de proyectos exitosos.
 
 <!--
 **DevZam336/DevZam336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
